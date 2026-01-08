@@ -1,0 +1,4 @@
+C:\projects\keepass-yandex-backup\obj\Debug\YandexDiskBackup.csproj.AssemblyReference.cache
+C:\projects\keepass-yandex-backup\obj\Debug\YandexDiskBackup.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\keepass-yandex-backup\obj\Debug\YandexDiskBackup.csproj.CoreCompileInputs.cache
+C:\projects\keepass-yandex-backup\obj\Debug\YandexDiskBackup.sourcelink.json
