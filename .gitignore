@@ -1,0 +1,30 @@
+﻿# Исходный код в src/ - НЕ игнорировать
+!src/**/*.cs
+!src/**/*.csproj
+!src/**/*.Designer.cs
+
+# Бинарные файлы
+*.dll
+*.exe
+*.pdb
+
+# Файлы сборки  
+bin/
+obj/
+*.suo
+*.user
+*.cache
+
+# Временные файлы
+*.tmp
+*.log
+*.bak
+
+# Файлы IDE
+.vs/
+.vscode/
+*.sln
+
+# Системные файлы
+Thumbs.db
+Desktop.ini
