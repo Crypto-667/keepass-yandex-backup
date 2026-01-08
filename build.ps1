@@ -11,7 +11,7 @@ if (Test-Path $OutputDir) {
 }
 
 # Build
-dotnet build --configuration Debug
+dotnet build src/YandexDiskBackup.csproj --configuration Debug
 
 if ($LASTEXITCODE -eq 0) {
     $dll = "$OutputDir\YandexDiskBackup.dll"
